@@ -745,7 +745,7 @@ have) - `*`
 * **Natural Language**: Natural language in searching refers to using human-like, conversational queries instead of
   keyword-based searches to find information. (i.e. "best smartphones 2024" and "what are the best smartphones in
   2024" )
-* **Devices**: The laptop / device that each organization member posesses. E.g. Some users may have systems such as a
+* **Devices**: The laptop / device that each organization member possesses. E.g. Some users may have systems such as a
   MacBook, ThinkPad, etc.
 * **CSV**:  CSV (comma-separated values) is a plain text file format that stores data in a table. CSVs are commonly
   used to store spreadsheets and databases.
